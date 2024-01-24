@@ -26,7 +26,7 @@ function escrevaTextoNatela(tag,texto){
 }
 
 function exibirMessagemInicial(){
-    escrevaTextoNatela('h1', 'Descubra o número secreto');
+    escrevaTextoNatela('h1', 'jogo número secreto');
     escrevaTextoNatela('p', 'Escolha um número entre 1 e 10');
 }
 
